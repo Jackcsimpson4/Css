@@ -1,9 +1,9 @@
-div {
-    width: 100%;
-    max-width: 200px;
-height: 100vw;
-border: 1px solid black;
-font-size: 12px;
-font-weight: 600;
-font-family: roboto, sans-serif;
+.box {
+    width: 200px;
+    height: 200px;
+background-color: green;
+border: 15px solid red;
+padding: 15px ;
+margin: 15px ;
+box-sizing: border-box;
 }
